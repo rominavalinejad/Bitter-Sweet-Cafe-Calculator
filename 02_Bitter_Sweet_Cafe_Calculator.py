@@ -28,10 +28,3 @@ total_cost =( (burger_price*3)+(pizza_price_1*2)+(pizza_price_2)+
 print(f"Actual total cost: {total_cost}")
 per_person = (total_cost / number_users)
 print(f"Actual each person's share: {per_person}")
-
-
-
-
-
-
-
